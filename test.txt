@@ -1,1 +1,3 @@
-Hello, this our first git file
+Hello, this our first git file.
+
+Create new line.
